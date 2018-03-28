@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="text_black">#4A4A4A</color>
+    <color name="text_grey">#838383</color>
+    <color name="text_red">#ff518a</color>
+    <color name="text_white">#ffffff</color>
+
+    <color name="divide_line_color">#dddddd</color>
+
+    <color name="operate_bg">#26FFFFFF</color>
+    <color name="blue_mormal">#66a1f9</color>
+    <color name="red_hover">#ff94d3</color>
+    <!--color name="red_hover">#FF8AB0</color-->
+    <color name="red_mormal">#e56590</color>
+    <color name="orange_hover">#feb68d</color>
+    <color name="progress_firstacc">#99f4d857</color>
+    <color name="progress_secondacc">#99f48e57</color>
+
+    <color name="title_color">#5496f8</color>
+
+    <color name="dark">#803cbcb7</color>
+    <color name="light">#800de6e8</color>
+    <color name="deep_blue">#1147A0</color>
+    <color name="blue_line">#24439D</color>
+
+    <color name="blue_dark">#377ADE</color>
+    <color name="blue_light">#5496F8</color>
+    <color name="red_dark">#B11918</color>
+    <color name="red_light">#E95150</color>
+    <color name="yellow_dark">#C27D0A</color>
+    <color name="yellow_light">#F6A623</color>
+
+    <color name="gray_title">#6E6E6E</color>
+    <color name="white_line">#EDEDED</color>
+
+    <color name="blue_tint">#3684C4</color>
+    <color name="yellow_tint">#CD8E26</color>
+    <color name="red_tint">#D43635</color>
+    <color name="text_color">#7F7F7F</color>
+    <color name="half_transparent">#e0000000</color>
+    <color name="lack_flows">#EDEDED </color>
+
+
+</resources>
